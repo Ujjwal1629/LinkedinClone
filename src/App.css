@@ -1,0 +1,14 @@
+.App__body {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin: 35px 20px 20px 0px;
+  max-width: 1200px;
+}
+.App {
+  background-color: #f3f2ef;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

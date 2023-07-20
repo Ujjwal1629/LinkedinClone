@@ -1,0 +1,16 @@
+.uploadOptions {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 15px !important;
+  align-items: center !important;
+  padding: 5px 20px;
+  color: gray;
+}
+.uploadOptions:hover {
+  background-color: lightgray;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.uploadOptions > h3 {
+  margin: 0px 5px;
+}
